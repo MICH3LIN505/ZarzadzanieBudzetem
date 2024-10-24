@@ -1,0 +1,8 @@
+C:\Users\micha\Desktop\ZarzadzanieBudzetem\ZarzadzanieBudzetem\obj\Debug\net8.0\ZarzadzanieBudzetem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\ZarzadzanieBudzetem\ZarzadzanieBudzetem\obj\Debug\net8.0\ZarzadzanieBudzetem.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\ZarzadzanieBudzetem\ZarzadzanieBudzetem\obj\Debug\net8.0\ZarzadzanieBudzetem.AssemblyInfo.cs
+C:\Users\micha\Desktop\ZarzadzanieBudzetem\ZarzadzanieBudzetem\obj\Debug\net8.0\ZarzadzanieBudzetem.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\ZarzadzanieBudzetem\ZarzadzanieBudzetem\obj\Debug\net8.0\ZarzadzanieBudzetem.sourcelink.json
+C:\Users\micha\Desktop\ZarzadzanieBudzetem\ZarzadzanieBudzetem\obj\Debug\net8.0\ZarzadzanieBudzetem.dll
+C:\Users\micha\Desktop\ZarzadzanieBudzetem\ZarzadzanieBudzetem\obj\Debug\net8.0\refint\ZarzadzanieBudzetem.dll
+C:\Users\micha\Desktop\ZarzadzanieBudzetem\ZarzadzanieBudzetem\obj\Debug\net8.0\ZarzadzanieBudzetem.pdb
